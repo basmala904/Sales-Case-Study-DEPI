@@ -39,7 +39,7 @@ This is a Power BI case study project created using real-world sales data provid
 ![Overview Dashboard](overview.png)
 
 ### ⏰ Time Analysis Dashboard
-![Time Analysis Dashboard](time-analysis.png)
+![Time Analysis Dashboard](Time analysis.png)
 
 
 Built with ❤️ using **Power BI**  
