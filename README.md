@@ -33,5 +33,13 @@ This is a Power BI case study project created using real-world sales data provid
 - Improve product quality for items with high returns
 - Incentivize underperforming sales reps
 - Target peak hours and best-selling months with special promotions
+## 📸 Dashboard Screenshots
+
+### 📍 Overview Dashboard
+![Overview Dashboard](overview.png)
+
+### ⏰ Time Analysis Dashboard
+![Time Analysis Dashboard](time-analysis.png)
+
 
 Built with ❤️ using **Power BI**  
